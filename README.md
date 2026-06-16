@@ -2,14 +2,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudando_Sistemas_de_Informação-blue?style=for-the-badge&logo=education" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Software_%26_Hardware-orange?style=for-the-badge&logo=cpu" alt="Foco" />
+  <img src="https://img.shields.io/badge/Objetivo-Desenvolvimento_de_Software-green?style=for-the-badge&logo=target" alt="Objetivo" />
 </p>
 
-### 🚀 Sobre Mim
+### 🚀 Sobre Meus Objetivos
 
-Sou estudante de **Sistemas de Informação**, entusiasta de hardware e fascinado por transformar lógica complexa em software eficiente. Transito entre o desenvolvimento de código de alta performance, criação de interfaces modernas e o entendimento profundo da arquitetura de computadores.
+Sou estudante de **Sistemas de Informação** com foco total em construir uma carreira sólida em **Desenvolvimento de Software**. Embora seja um grande entusiasta de hardware e arquitetura de computadores — o que me dá uma base excelente para entender o que acontece por baixo dos panos —, meu objetivo profissional é criar soluções lógicas, eficientes e de alta performance através do código.
 
-Quando não estou codando ou analisando algoritmos, provavelmente estou testando alguma build de hardware, otimizando o setup ou explorando mundos em algum jogo de sobrevivência/competitivo.
+Atualmente, estou aprofundando meus conhecimentos em lógica avançada, algoritmos e no desenvolvimento tanto de aplicações robustas quanto de interfaces modernas para a web.
 
 ---
 
@@ -47,15 +47,13 @@ Quando não estou codando ou analisando algoritmos, provavelmente estou testando
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoswelinton&theme=tokyonight&show_icons=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswelinton&layout=compact&theme=tokyonight&hide_languages=cpp" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosWelinton&theme=tokyonight&show_icons=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosWelinton&layout=compact&theme=tokyonight&hide_languages=portugol" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoswelinton&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosWelinton&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,11 +61,8 @@ Quando não estou codando ou analisando algoritmos, provavelmente estou testando
 ### 📫 Conecte-se Comigo
 
 <p align="left">
-  <a href="[https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/marcos-welinton-2b5810332/)" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-welinton-2b5810332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:welinton321marcos@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
