@@ -47,9 +47,11 @@ Quando não estou codando ou analisando algoritmos, provavelmente estou testando
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoswelinton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswelinton&layout=compact&theme=tokyonight" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoswelinton&theme=tokyonight&show_icons=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswelinton&layout=compact&theme=tokyonight&hide_languages=cpp" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
